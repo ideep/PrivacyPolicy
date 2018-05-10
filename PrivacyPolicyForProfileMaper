@@ -1,0 +1,12 @@
+Privacy Policy for Profile Maper v1.0
+
+This app will access :
+- Your contacts to get contact name who had called OR messaged you to send over email
+- Your device's location as it's location based app to mark current OR specified location as Place
+- Only email address which are stored on your device which will be used to send an email
+- Your Received SMS to send over email
+- Write to external Storage
+ 
+ We are not storing any above access sensitive information on our side i.e any server or analytics tools so , we are only using these permissions to make app smooth.
+ 
+ We have not used or supplied above accessed information to any third party analytics OR on our server.
